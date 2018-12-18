@@ -21,8 +21,8 @@ Tools
     - [Divvy Bike Usage](https://github.com/ranpanguchicago/divvy_bike_usage):.
     
 - ## Database Design
-    - [Sakila Database](https://github.com/ranpanguchicago/sakila_database):.
     - [Divvy Bike Database](https://github.com/ranpanguchicago/divvy_bike_database):.
+    - [Sakila Database](https://github.com/ranpanguchicago/sakila_database):.
 
 If you enjoyed what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, feel free to contact me on:
     - [LinkedIn](https://www.linkedin.com/in/pang)
