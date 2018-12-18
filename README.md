@@ -2,7 +2,7 @@
 Repository containing portfolio of data science projects completed for professional, academic, and self learning purposes.
 
 Tools
-  - **Python**: numpy, pandas, scikit-learn, tensorflow, keras, seaborn, matplotlib
+  - **Python**: numpy, pandas, scikit-learn, tensorflow, keras, opencv, seaborn, matplotlib
   - **R**: dplyr, data.table
 
 ## Contents
