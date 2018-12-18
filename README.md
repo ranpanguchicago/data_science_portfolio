@@ -2,8 +2,8 @@
 Repository containing portfolio of data science projects completed for professional, academic, and self learning purposes.
 
 Tools
-  - **Python**: NumPy, Pandas, Scikit-Learn, TensorFlow, Keras, Seaborn, Matplotlib
-  - **R**
+  - **Python**: numpy, pandas, scikit-learn, tensorflow, keras, seaborn, matplotlib
+  - **R**: dplyr, data.table
 
 ## Contents
 - ## Machine Learning
@@ -13,8 +13,11 @@ Tools
     - [Driver Assistance System](https://github.com/ranpanguchicago/driver_assistance_system):.
     - [Real-Time Video Surveillance Detection](https://github.com/ranpanguchicago/real_time_video_surveillance_detection):.
 
-- ## Data Analysis and Visualization
+- ## Data Analysis
     - [Trading Strategy](https://github.com/ranpanguchicago/trading_strategy):.
+    
+- ## Data Visualization
+    - [Divvy Bike Usage](https://github.com/ranpanguchicago/divvy_bike_usage):.
     
 - ## Other Projects
 
