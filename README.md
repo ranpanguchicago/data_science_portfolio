@@ -13,6 +13,7 @@ Tools
 - ## Deep Learning & Image Recognition
     - [Driver Assistance System](https://github.com/ranpanguchicago/driver_assistance_system):.
     - [Real-Time Video Surveillance Detection](https://github.com/ranpanguchicago/real_time_video_surveillance_detection):.
+    - [Color Change Detection](https://github.com/ranpanguchicago/color_change_detection):.    
 
 - ## Data Analysis
     - [Trading Strategy](https://github.com/ranpanguchicago/trading_strategy):.
@@ -21,8 +22,8 @@ Tools
     - [Divvy Bike Usage](https://github.com/ranpanguchicago/divvy_bike_usage):.
     
 - ## Database Design
-    - [Divvy Bike Database](https://github.com/ranpanguchicago/divvy_bike_database):.
     - [Sakila Database](https://github.com/ranpanguchicago/sakila_database):.
+    - [Divvy Bike Database](https://github.com/ranpanguchicago/divvy_bike_database):.
 
 If you enjoyed what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, feel free to contact me on:
     - [LinkedIn](https://www.linkedin.com/in/pang)
