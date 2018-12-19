@@ -4,6 +4,7 @@ This repository contains portfolio of data science projects completed for profes
 Programming languages:
   - **Python**: numpy, pandas, statsmodels, scikit-learn, tensorflow, keras, opencv, seaborn, matplotlib
   - **R**: dplyr, data.table, ggplot2
+
 Other tools:
   - **SQL**, **Tableau**
 
