@@ -1,4 +1,6 @@
 # Data Science Portfolio
+If you want to talk with me about the portfolio, collaboration, or work opportunities, feel free to contact me on: - LinkedIn
+
 I am a Master of Science in Analytics candidate at the University of Chicago with professional experience in the field of data analytics. I work to manage and organize data, process and perform data analyses, develop and test statistical models, and gain and improve business insights.
 
 This repository contains portfolio of data science projects completed for professional, academic, and self-learning purposes.
