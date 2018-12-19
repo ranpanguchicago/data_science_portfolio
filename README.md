@@ -31,6 +31,9 @@ Other tools:
     
 - ## Database Design
     - [Sakila Database](https://github.com/ranpanguchicago/sakila_database): Constructed a snowflake dimemsional data model using sakila database schema which can be found at mysql website.
-
+    
+- ## Other
+    - [TCP Server and Client](https://github.com/ranpanguchicago/tcp_server_and_client): Created a TCP server using the library socketserver and threaded TCP clients.
+  
 If you want to talk with me about the portfolio, collaboration, or work opportunities, feel free to contact me on:
     - [LinkedIn](https://www.linkedin.com/in/pang)
