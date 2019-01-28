@@ -32,7 +32,10 @@ Other tools:
     
 - ## Database Design
     - [Sakila Database](https://github.com/ranpanguchicago/sakila_database): Constructed a snowflake dimemsional data model using sakila database schema which can be found at mysql website.
-    
+
+- ## Statistics Concepts
+    - [Maximum Likelihood](https://github.com/ranpanguchicago/maximum_likelihood): .
+
 - ## Other
     - [TCP Server and Client](https://github.com/ranpanguchicago/tcp_server_and_client): Created a TCP server using the library socketserver and threaded TCP clients.
     - [Trading Strategy](https://github.com/ranpanguchicago/trading_strategy): Built a market neutral strategy using airline stocks including Alaska, American, Delta, JetBlue, Southwest, and United Airlines, downloaded from Yahoo Finance.
