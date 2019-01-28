@@ -14,7 +14,7 @@ Programming languages:
 Other tools:
   - **SQL**, **Tableau**
 
-## Projects:
+## Projects
 - ## Machine Learning
     - [Credit Card Fraud Detection](https://github.com/ranpanguchicago/credit_card_fraud_detection): .
     - [Divvy Bike Prediction](https://github.com/ranpanguchicago/divvy_bike_prediction): The prediction can help Divvy pre-allocate bikes to avoid bike shortage in any divvy bike station. Logistic regression is used to categorize busy and not-busy stations, and the model can be run on a daily basis.
