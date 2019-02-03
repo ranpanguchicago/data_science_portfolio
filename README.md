@@ -21,7 +21,7 @@ Other tools:
 
 - ## Data Mining
     - [Anomalies Detection: Based on Copulas and Quantile Regression](https://github.com/ranpanguchicago/anomalies_detection_based_on_copulas_and_quantile_regression): In this particular demonstration, the anomaly detection problem is a byvariate anomalies when the underlying variables are not Gaussian and may have nonlinear relationship. The goal is to use copula and quantile distribution to detect anomalies.
-.
+    
     - [Non-Hierarchical Clustering: Comparison between K-Means and DBSCAN](https://github.com/ranpanguchicago/non_hierarchical_clustering_comparison_between_k_means_and_dbscan): .
     
 - ## Deep Learning & Image Recognition
