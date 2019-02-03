@@ -20,7 +20,8 @@ Other tools:
     - [Divvy Bike Prediction](https://github.com/ranpanguchicago/divvy_bike_prediction): The prediction can help Divvy pre-allocate bikes to avoid bike shortage in any divvy bike station. Logistic regression is used to categorize busy and not-busy stations, and the model can be run on a daily basis.
 
 - ## Data Mining
-    - [Anomalies Detection: Based on Copulas and Quantile Regression](https://github.com/ranpanguchicago/anomalies_detection_based_on_copulas_and_quantile_regression): .
+    - [Anomalies Detection: Based on Copulas and Quantile Regression](https://github.com/ranpanguchicago/anomalies_detection_based_on_copulas_and_quantile_regression): In this particular demonstration, the anomaly detection problem is a byvariate anomalies when the underlying variables are not Gaussian and may have nonlinear relationship. The goal is to use copula and quantile distribution to detect anomalies.
+.
     - [Non-Hierarchical Clustering: Comparison between K-Means and DBSCAN](https://github.com/ranpanguchicago/non_hierarchical_clustering_comparison_between_k_means_and_dbscan): .
     
 - ## Deep Learning & Image Recognition
