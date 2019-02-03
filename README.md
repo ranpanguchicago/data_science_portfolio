@@ -22,7 +22,7 @@ Other tools:
 - ## Data Mining
     - [Anomalies Detection: Based on Copulas and Quantile Regression](https://github.com/ranpanguchicago/anomalies_detection_based_on_copulas_and_quantile_regression): In this particular demonstration, the anomaly detection problem is a byvariate anomalies when the underlying variables are not Gaussian and may have nonlinear relationship. The goal is to use copula and quantile distribution to detect anomalies.
     
-    - [Non-Hierarchical Clustering: Comparison between K-Means and DBSCAN](https://github.com/ranpanguchicago/non_hierarchical_clustering_comparison_between_k_means_and_dbscan): .
+    - [Non-Hierarchical Clustering: Comparison between K-Means and DBSCAN](https://github.com/ranpanguchicago/non_hierarchical_clustering_comparison_between_k_means_and_dbscan): Both of these non-hierarchical clustering methods will be examined, using random generated clusters.
     
 - ## Deep Learning & Image Recognition
     - [Driver Assistance System](https://github.com/ranpanguchicago/driver_assistance_system): Focused on processing videos taken from the front camera mounted on test vehicle's windshield. The system generates real-time steering angle recommendation, lane keep status, and brake warning message when necessary.
